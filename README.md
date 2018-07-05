@@ -45,3 +45,8 @@ I do not see the Wizard way or learning as effective, and I prefer to learn thin
 ## 003
 * going through https://reactjs.org/tutorial/tutorial.html , using "Setup Option 2".
 * seems like the default project template already provides everything that is needed to run dev server locally, test, build and suggestions on how to run the built version on simple http static server. That is fantastic amount of ready-to-use infrastructure.
+* should read full template readme: https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
+## 004
+* configured VS Code with `jsconfig.json`, trying out `ES2018` syntax.
+* tutorial suggests interesting usage of function references for `handleClick()`.
+* functional components remove a lot of boilerplate.
