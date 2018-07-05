@@ -48,5 +48,6 @@ I do not see the Wizard way or learning as effective, and I prefer to learn thin
 * should read full template readme: https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
 ## 004
 * configured VS Code with `jsconfig.json`, trying out `ES2018` syntax.
-* tutorial suggests interesting usage of function references for `handleClick()`.
+* tutorial suggests interesting usage of function references for `handleClick()` with `props`.
 * functional components remove a lot of boilerplate.
+* initial version of the tutorial app works, tried debugging and VS Code is configured to launch Chrome.
