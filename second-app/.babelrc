@@ -1,0 +1,12 @@
+{
+  "env": {
+    "development": {
+      "sourceMaps": "inline",
+      "plugins": ["source-map-support"]
+    }
+  },
+  "presets": [
+    "env",
+    "react"
+  ]
+}
