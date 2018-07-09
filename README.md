@@ -51,3 +51,6 @@ I do not see the Wizard way or learning as effective, and I prefer to learn thin
 * tutorial suggests interesting usage of function references for `handleClick()` with `props`.
 * functional components remove a lot of boilerplate.
 * initial version of the tutorial app works, tried debugging and VS Code is configured to launch Chrome.
+## 005
+* finished the tutorial. Seems like the basic idea is to push all the state to the top level component and propagate down from there.
+* to understand how Webpack and Babel works, will try to set up a project from scratch and copy sources from the react tutorial.
