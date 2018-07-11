@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import 'core-js/es6/set';
 
 function Square(props) {
     return (
