@@ -54,3 +54,10 @@ I do not see the Wizard way or learning as effective, and I prefer to learn thin
 ## 005
 * finished the tutorial. Seems like the basic idea is to push all the state to the top level component and propagate down from there.
 * to understand how Webpack and Babel works, will try to set up a project from scratch and copy sources from the react tutorial.
+## 006
+* react tutorial is using Webpack 3.
+* webpack 4 requires little different configuration, especially for CSS processing, and also different approach to renaming of the resources.
+* still haven't figured out how to pack favicon too.
+* could not make React app work in IE8 with all possible babel configurations.
+* `ES2015` is the lowest possible standard to which babel was able to transcompile React, which is IE9.
+* Polyfills are needed to add `Set` and `Map` to IE9, and aparently polyfills is something that developer has to do in the code, and not just configure WebPack/Babel to do.
